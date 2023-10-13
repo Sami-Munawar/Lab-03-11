@@ -74,16 +74,15 @@ view(staff)
 
 What is the difference between *wide format* data and *long format* data?
 
-long format has multple rows for each case and wide format variables occuply a single column   
+Long format has multiple rows for each case and wide format variables occupy multiple columns.   
 
 Is the format `staff` data *wide* or *long*?
 
-format of 'staff' is wide
-
+Format of 'staff' is wide.
 
 How many observations are there in the data set?
 
-5
+55
 
 
 
