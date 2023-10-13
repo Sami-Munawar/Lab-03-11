@@ -65,6 +65,8 @@ _Write your comments about image 4 below_
 
 ```{r load-data-staff, message=FALSE, eval=TRUE}
 staff <- read_csv("data/instructional-staff.csv")
+
+view(staff)
 ```
 
 
@@ -72,11 +74,16 @@ staff <- read_csv("data/instructional-staff.csv")
 
 What is the difference between *wide format* data and *long format* data?
 
+long format has multple rows for each case and wide format variables occuply a single column   
 
 Is the format `staff` data *wide* or *long*?
 
+format of 'staff' is wide
+
 
 How many observations are there in the data set?
+
+5
 
 
 
